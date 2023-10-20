@@ -7,4 +7,4 @@ Input: <br>	p, principal amount <br>
    r, annual rate of interest <br> 
 
 Output: 
-<br>__   simple interest = p*t*r
+<br>  simple interest = p*t*r
